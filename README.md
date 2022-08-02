@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 
-![Deepan's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepandas11)
+[![Deepan Das's GitHub stats](https://github-readme-stats-eta-sable.vercel.app/api?username=deepandas11&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 I'm a Machine Learning Engineer at [Datachat Inc](https://datachat.ai/). 
 
